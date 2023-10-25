@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Divyesh06
-- 👀 I’m interested in Reading, Writing and Programming
-- 🌱 I’m currently learning Python, Web Development and Unreal
+- 👀 I’m interested in Programming and books.
+- 🌱 I’m currently learning Python, Web Development, and Unreal
 - 📫 Reach me divyeshlakhotia@gmail.com
-- ✨ My main projects are https://geeke.app and https://zia.geeke.app
+- ✨ Check out my main projects - https://geeke.app and https://zia.geeke.app
 
 <!---
 Divyesh06/Divyesh06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
